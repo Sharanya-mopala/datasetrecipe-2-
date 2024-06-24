@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+    <recipe>
+        <title>Spaghetti Bolognese</title>
+        <ingredients>1 lb ground beef, 1 onion, 2 garlic cloves, 1 can of tomato sauce, 1 cup of water, 1 tbsp Italian seasoning, salt and pepper to taste, 8 oz spaghetti</ingredients>
+        <instructions>
+            <step>Cook spaghetti according to package instructions.</step>
+            <step>In a pan, cook onion and garlic until soft.</step>
+            <step>Add ground beef and cook until browned.</step>
+            <step>Stir in tomato sauce, water, and Italian seasoning.</step>
+            <step>Simmer for 20 minutes.</step>
+            <step>Season with salt and pepper.</step>
+            <step>Serve over cooked spaghetti.</step>
+        </instructions>
+    </recipe>
+    
+    <recipe>
+        <title>Chicken Curry</title>
+        <ingredients>1 lb chicken breast, 1 onion, 3 garlic cloves, 1 tbsp curry powder, 1 can of coconut milk, 1 tbsp vegetable oil, salt to taste</ingredients>
+        <instructions>
+            <step>Cut chicken into bite-sized pieces.</step>
+            <step>In a pan, heat oil and sauté onion and garlic until soft.</step>
+            <step>Add chicken pieces and cook until browned.</step>
+            <step>Stir in curry powder.</step>
+            <step>Pour in coconut milk and bring to a simmer.</step>
+            <step>Cook for 20 minutes or until chicken is cooked through.</step>
+            <step>Season with salt.</step>
+        </instructions>
+    </recipe>
+    
+    <recipe>
+        <title>Caesar Salad</title>
+        <ingredients>2 heads of romaine lettuce, 1 cup croutons, 1 cup grated Parmesan cheese, 2 tbsp Caesar dressing, 4 anchovy fillets (optional)</ingredients>
+        <instructions>
+            <step>Wash and chop romaine lettuce.</step>
+            <step>In a salad bowl, combine lettuce, croutons, and Parmesan cheese.</step>
+            <step>Drizzle Caesar dressing over the salad.</step>
+            <step>Toss to coat.</step>
+            <step>Top with anchovy fillets if desired.</step>
+        </instructions>
+    </recipe>
+    
+    <recipe>
+        <title>Beef Stir-Fry</title>
+        <ingredients>1 lb beef sirloin, 2 bell peppers, 1 onion, 2 tbsp soy sauce, 1 tbsp vegetable oil, 1 tsp ginger, salt and pepper to taste</ingredients>
+        <instructions>
+            <step>Slice beef and vegetables into thin strips.</step>
+            <step>Heat oil in a wok or large pan.</step>
+            <step>Add beef and stir-fry until browned.</step>
+            <step>Remove beef and set aside.</step>
+            <step>In the same pan, stir-fry bell peppers and onion.</step>
+            <step>Return beef to the pan.</step>
+            <step>Add soy sauce and ginger.</step>
+            <step>Season with salt and pepper.</step>
+            <step>Cook for another 2 minutes.</step>
+        </instructions>
+    </recipe>
+    
+    <recipe>
+        <title>Vegetarian Chili</title>
+        <ingredients>1 can of kidney beans, 1 can of black beans, 1 can of diced tomatoes, 1 onion, 2 garlic cloves, 1 tbsp chili powder, 1 tsp cumin, 1 tbsp vegetable oil, salt to taste</ingredients>
+        <instructions>
+            <step>In a pot, heat oil and sauté onion and garlic until soft.</step>
+            <step>Add chili powder and cumin.</step>
+            <step>Pour in diced tomatoes and beans.</step>
+            <step>Bring to a simmer and cook for 30 minutes.</step>
+            <step>Season with salt.</step>
+        </instructions>
+    </recipe>
+    
+    <recipe>
+        <title>Margherita Pizza</title>
+        <ingredients>1 pre-made pizza dough, 1 cup of tomato sauce, 1 ball of mozzarella cheese, 2 tbsp olive oil, 1 tsp dried oregano, salt to taste</ingredients>
+        <instructions>
+            <step>Preheat oven to 425°F.</step>
+            <step>Roll out pizza dough on a baking sheet.</step>
+            <step>Spread tomato sauce over the dough.</step>
+            <step>Slice mozzarella and place on top of sauce.</step>
+            <step>Drizzle with olive oil and sprinkle with oregano.</step>
+            <step>Bake for 15-20 minutes or until crust is golden.</step>
+        </instructions>
+    </recipe>
+    
+    <recipe>
+        <title>Chocolate Cake</title>
+        <ingredients>2 cups sugar, 1-3/4 cups all-purpose flour, 3/4 cup unsweetened cocoa powder, 1-1/2 tsp baking powder, 1-1/2 tsp baking soda, 1 tsp salt, 2 eggs, 1 cup milk, 1/2 cup vegetable oil, 2 tsp vanilla extract, 1 cup boiling water</ingredients>
+        <instructions>
+            <step>Preheat oven to 350°F.</step>
+            <step>Mix together sugar, flour, cocoa, baking powder, baking soda, and salt in a large bowl.</step>
+            <step>Add eggs, milk, oil, and vanilla.</step>
+            <step>Beat on medium speed for 2 minutes.</step>
+            <step>Stir in boiling water.</step>
+            <step>Pour into prepared pans.</step>
+            <step>Bake for 30-35 minutes.</step>
+        </instructions>
+    </recipe>
+    
+    <recipe>
+        <title>Tomato Soup</title>
+        <ingredients>2 cans of whole tomatoes, 1 onion, 2 garlic cloves, 1 tbsp olive oil, 1 tsp thyme, 1 cup chicken or vegetable broth, salt and pepper to taste</ingredients>
+        <instructions>
+            <step>In a pot, heat oil and sauté onion and garlic until soft.</step>
+            <step>Add whole tomatoes and thyme.</step>
+            <step>Pour in broth and bring to a simmer.</step>
+            <step>Cook for 20 minutes.</step>
+            <step>Blend with an immersion blender until smooth.</step>
+            <step>Season with salt and pepper.</step>
+        </instructions>
+    </recipe>
+    
+    <recipe>
+        <title>Egg Fried Rice</title>
+        <ingredients>3 cups cooked rice, 2 eggs, 2 tbsp soy sauce, 1 tbsp vegetable oil, 1 onion, 2 garlic cloves, 1 carrot, 1 cup peas, salt to taste</ingredients>
+        <instructions>
+            <step>Beat eggs and scramble in a pan.</step>
+            <step>Set aside.</step>
+            <step>In the same pan, heat oil and sauté onion, garlic, and carrot until soft.</step>
+            <step>Add rice and stir to combine.</step>
+            <step>Pour in soy sauce and mix well.</step>
+            <step>Add peas and scrambled eggs.</step>
+            <step>Season with salt.</step>
+            <step>Cook for another 5 minutes.</step>
+        </instructions>
+    </recipe>
+    
